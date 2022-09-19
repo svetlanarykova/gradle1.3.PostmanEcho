@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/t5rp2r1n8drekviu?svg=true)](https://ci.appveyor.com/project/svetlanarykova/gradle1-3-postmanecho)
